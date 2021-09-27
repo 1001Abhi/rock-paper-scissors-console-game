@@ -26,7 +26,7 @@ char Rockpaperscissors(char u , char c){
         return 'L';
     }
         
-}
+} 
 
 int main(){
     char computer, yourself;
